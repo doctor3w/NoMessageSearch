@@ -1,0 +1,10 @@
+Package: com.drewsdunne.nomessagesearch
+Name: NoMessageSearch
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: drewsdunne
+Author: drewsdunne
+Section: Tweaks
+Depiction: http://repo.drewsdunne.com/depiction.php?package=com.drewsdunne.nomessagesearch
